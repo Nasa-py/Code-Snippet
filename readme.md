@@ -293,8 +293,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Nasa-py)
+- Email: khanarafat100000@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -327,7 +327,7 @@ Having issues? Here's how to get help:
 1. **Check the Issues page** on GitHub
 2. **Read the troubleshooting section** above
 3. **Open a new issue** with details about your problem
-4. **Email** your.email@example.com
+4. **Email** khanarafat100000@gmail.com
 
 ## ⭐ Show Your Support
 
@@ -335,4 +335,4 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ and Python** | **© 2026 Your Name** | **Happy Coding! 🚀**
+**Made By Nasa** | **© 2026 ** | **Happy Coding! 🚀**
